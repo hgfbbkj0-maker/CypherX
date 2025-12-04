@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "name": "HAMZA-458",
+  "description": "/HAMZA-458, your friendly assistant!",
+  "logo":https://i.ibb.co/v4PjqBz9/shaban-md.jpg",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/CypherX",
   "stack": "container",
@@ -14,7 +14,7 @@
     "start": "node index.js"
   },
 "env": {
-  "SESSION_ID": {
+  "SESSION_ID" CYPHER-X:~UEsDBBQAAAgIAA1JhFumKOUxVAQAAHEHAAAKAAAAY3JlZHMuanNvbpVU25KiSBD9l3rVGLmJSERHLKACIoLt3Y19KKHAEgSsKhCY8N836J6enofd2V6eiqyMzJPnnKzvIMsxRQ5qgPodFARXkKHuyJoCARXoZRQhAvoghAwCFeRa*ZjoSpW3cTv3y12SCtClq2g8N8sT2yzwfbyVNgs0sB4v4NkHRXlOcfCbgmSLuWxVt9nZ4VNuqZmK7JcasaPT*lDxh9odyqlv+tfxZvoCnl1FiAnO4mlxQTdEYOqgxoeYfA2+YGYDP1o1gbTfVkEvtCvtkF74ON1LeL4UpsvXw2ydRci4fRF+XpVcjzOLgW28HuvpES0eu4q6oW5OtIuupUEr1eO9EvlJ8g6f4jhDoR2ijGHWfJn3chq4gzibmUfk7Rz*6uJgV+yi7VyqOA0pOuSa8OHHeru1vwb8Lq2ujQ09LznLE9lt+KNi63dFc6b42raFGVbY3HJuataPX4H75MMryf*h3bOMShqZvOVV9B4E6d7Ul74gSOI5XOeny0Jeu+Y8qotFEn8N*iG33LNgiFwQaLPzobzmbhy0uFbgvcm1wfDWaE7oRL45UT7hQ1aS36H0ve0wMj3EjzfDWDF6mmuLvSC+iCIK8mNjiaN7UbZE3HgExfSg78LD1tN2d6Tv5jdz0kgX0z8vDm0r9JrkuoobYy7Gq5e3iRLU2CFQ+WcfEBRjyghkOM*eYorSBzCs1iggiL3RC+pZ5Z0fiWGNlolRcfCgkXTO30+WdCxFN7XE8SybrafJisQvoA8KkgeIUhRamLKcNC6iFMaIAvXPv*ogQzV7F65rJ*J9EGFC2TYrizSH4YeqH5cwCPIyY+smC4zugAhQuc8wYgxnMe14LDNIgguukHGBjAI1gilFPydEBIVAZaREP7fWyMOOeMeUX1e+MgZ9cHsTBIdABWNBFEYCp0jKWFF54Q*67dGVhUXxLUMM9EH6niYN5REvyAonyNKwS+ziz58Au3ohYhCnFKjAsIVVXlB96ntGHSSmqU1jzYg18DnQhzPemW+35STerJswleXdXGwoc5K73g6zVWNdZ+yU3+Zx6y9LnNGXfygCVIBXYe68LnIP2mH7EOY3t*Boq4m71dYTHP1ojY3VraE9v4cNb8f18NiEt71y3s9pr7qurSQ81PLEWDvL83Iw96a9Rz2ZPF66biGqcIB+bVYvBohWIuKGpD6NvVsyrZmWDwtfDuQBmdm9ajEUXjmT3fSJOD4sNvhUnS7JvTLpoSgRdvD5phSvRylbswdzo8yq+fjx7tm3nUl*vFX4zU2dVN1vhNHb6mewE*C*pXsH3jmMe*Z*qfHjMfmXhdQDfhFLU45mJ1Sm61Ahi3XhxEHvxLkXqT7v4Rwf3bY958UIPJ9*9UGRQhbl5AZUALOQ5DgEfUDysrOsnUX5b5oZmm0bWjzrJk8hZdrnGmzwDVEGbwVQ+ZEsKeJwxInvWT7JCwvSC1AB70gXS+o83WhFsWaQfWwV0LrPiWTw*BtQSwECFAMUAAAICAANSYRbpijlMVQEAABxBwAACgAAAAAAAAAAAAAApIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAAB8BAAAAAA=
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
     "value": "",
     "required": false
